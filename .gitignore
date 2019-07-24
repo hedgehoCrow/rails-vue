@@ -202,3 +202,10 @@ npm-debug.log
 yarn-error.log
 
 # End of https://www.gitignore.io/api/vuejs,rails,python
+
+/public/packs
+/public/packs-test
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
